@@ -5,9 +5,16 @@ Processing is a free graphical library and integrated development environment (I
 2. Распаковываю архив
 3. Внутри папки processing-4.0b5 просто делаю ./processing
 4. Изначально была установлена mode Java, но я ещё скачала Python
-<p align="left">
-	<img  src="https://user-images.githubusercontent.com/84707645/153474057-e9bca11d-3f7d-47d8-b926-afa6f5178879.png" width="800" height="220" />
-</p>
+```
+def setup():
+    size(800, 200)
+def draw():
+    if mousePressed:
+        fill(0,0,255)
+    else:
+        fill(255,64,64)
+    ellipse(mouseX, mouseY, 80, 80)
+```
 
 Вот этот маленький миленький кусочек кода даёт следующее:
 1. Мы установили размер окна `size(800, 200)`. Кстати, если задать размер окна гораздо больший, чем у вас разрешение экрана, то программе норм, она поёрзает, поёрзает да нарисует.
