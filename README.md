@@ -25,3 +25,20 @@ Processing is a free graphical library and integrated development environment (I
 <p align="right">
 	<img  src="https://user-images.githubusercontent.com/84707645/153476466-393fbda0-2038-4b07-9712-23f8c0f884db.png" width="400" height="400" />
 </p>
+
+
+
+<div class="image123">
+    <div class="imgContainer">
+        <img src="/images/tv.gif" height="200" width="200"/>
+        <p>This is image 1</p>
+    </div>
+    <div class="imgContainer">
+        <img class="middle-img" src="/images/tv.gif"/ height="200" width="200"/>
+        <p>This is image 2</p>
+    </div>
+    <div class="imgContainer">
+         <img src="/images/tv.gif"/ height="200" width="200"/>
+        <p>This is image 3</p>
+    </div>
+</div>
