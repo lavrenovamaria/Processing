@@ -27,18 +27,32 @@ Processing is a free graphical library and integrated development environment (I
 </p>
 
 
-
-<div class="image123">
-    <div class="imgContainer">
-        <img src="/images/tv.gif" height="200" width="200"/>
-        <p>This is image 1</p>
-    </div>
-    <div class="imgContainer">
-        <img class="middle-img" src="/images/tv.gif"/ height="200" width="200"/>
-        <p>This is image 2</p>
-    </div>
-    <div class="imgContainer">
-         <img src="/images/tv.gif"/ height="200" width="200"/>
-        <p>This is image 3</p>
-    </div>
-</div>
+<html> 
+<head> 
+	<title> 
+	</title> 
+	<style> 
+	.boxes{ 
+	width:50%; 
+	float:left; 
+	} 
+	#mainDiv{ 
+		width:50%; 
+margin:auto; 
+	} 
+	img{ 
+		max-width:100%; 
+	} 
+</style> 
+</head> 
+<body> 
+<div id="mainDiv"> 
+    <div id="divOne" class="boxes"> 
+	<img src="one.jpg"> 
+    </div> 
+    <div id="divTwo" class="boxes"> 
+	<img src="two.jpg"> 
+    </div> 
+</div> 
+</body> 
+<html> 
