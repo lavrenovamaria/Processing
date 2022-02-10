@@ -6,7 +6,7 @@ Processing is a free graphical library and integrated development environment (I
 3. Внутри папки processing-4.0b5 просто делаю ./processing
 4. Изначально была установлена mode Java, но я ещё скачала Python
 <p align="left">
-	<img  src="ttps://user-images.githubusercontent.com/84707645/153474057-e9bca11d-3f7d-47d8-b926-afa6f5178879.png" width="800" height="200" />
+	<img  src="https://user-images.githubusercontent.com/84707645/153474057-e9bca11d-3f7d-47d8-b926-afa6f5178879.png" width="800" height="200" />
 </p>
 
 Вот этот маленький миленький кусочек кода даёт следующее:
