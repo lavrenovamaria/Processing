@@ -19,40 +19,10 @@ Processing is a free graphical library and integrated development environment (I
 
 Другой пример из папки Java_based_syntax
 <p align="left">
-	<img  src="https://user-images.githubusercontent.com/84707645/153476453-4f7ab14e-a253-415b-8eb3-9b23b14f8c02.png" width="400" height="400" />
+	<img  src="https://user-images.githubusercontent.com/84707645/153476453-4f7ab14e-a253-415b-8eb3-9b23b14f8c02.png" width="800" height="800" />
 </p>
 
-<p align="right">
-	<img  src="https://user-images.githubusercontent.com/84707645/153476466-393fbda0-2038-4b07-9712-23f8c0f884db.png" width="400" height="400" />
+<p align="left">
+	<img  src="https://user-images.githubusercontent.com/84707645/153476466-393fbda0-2038-4b07-9712-23f8c0f884db.png" width="800" height="800" />
 </p>
 
-
-<html> 
-<head> 
-	<title> 
-	</title> 
-	<style> 
-	.boxes{ 
-	width:50%; 
-	float:left; 
-	} 
-	#mainDiv{ 
-		width:50%; 
-margin:auto; 
-	} 
-	img{ 
-		max-width:100%; 
-	} 
-</style> 
-</head> 
-<body> 
-<div id="mainDiv"> 
-    <div id="divOne" class="boxes"> 
-	<img src="one.jpg"> 
-    </div> 
-    <div id="divTwo" class="boxes"> 
-	<img src="two.jpg"> 
-    </div> 
-</div> 
-</body> 
-<html> 
