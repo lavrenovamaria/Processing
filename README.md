@@ -54,10 +54,10 @@ def draw():
 
 <div class="clearfix">
   <div class="img-container">
-  <img src="https://user-images.githubusercontent.com/84707645/153479431-6e1f8f08-efac-4529-9e5f-95f19fdee610.png" alt="Italy" style="width:100%">
+  <img src="https://user-images.githubusercontent.com/84707645/153479431-6e1f8f08-efac-4529-9e5f-95f19fdee610.png" alt="Italy" style="width:50%">
   </div>
   <div class="img-container">
-  <img src="https://user-images.githubusercontent.com/84707645/153479431-6e1f8f08-efac-4529-9e5f-95f19fdee610.png" alt="Forest" style="width:100%">
+  <img src="https://user-images.githubusercontent.com/84707645/153479431-6e1f8f08-efac-4529-9e5f-95f19fdee610.png" alt="Forest" style="width:50%">
  
 </div>
 
