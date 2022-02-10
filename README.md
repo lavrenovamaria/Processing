@@ -33,12 +33,12 @@ def draw():
 <head></head>
  <body>
     <div style="width: 100%;">
-        <div style="width: 50%; height: 100px; float: left; background: green;"> 
-            Left Div 
-        </div>
-        <div style="margin-left: 50%; height: 100px; background: blue;"> 
-            Right Div
-        </div>
+        <p align="left">
+	<img  src="https://user-images.githubusercontent.com/84707645/153479431-6e1f8f08-efac-4529-9e5f-95f19fdee610.png" width="800" height="800" />
+	</p>
+        <p align="right">
+	<img  src="https://user-images.githubusercontent.com/84707645/153479431-6e1f8f08-efac-4529-9e5f-95f19fdee610.png" width="800" height="800" />
+	</p>
     </div>
  </body>
 </html>
