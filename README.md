@@ -26,7 +26,5 @@ def draw():
 
 Другой пример из папки Java_based_syntax
 <p align="center">
-	<img  src="https://user-images.githubusercontent.com/84707645/153479431-6e1f8f08-efac-4529-9e5f-95f19fdee610.png" width="800" height="800" />
+	<img  src="https://user-images.githubusercontent.com/84707645/153637250-a4f6ee7e-5c21-4749-a34b-54de78ee472b.jpg" width="800" height="800" />
 </p>
-![MyCollages](https://user-images.githubusercontent.com/84707645/153637250-a4f6ee7e-5c21-4749-a34b-54de78ee472b.jpg)
-
