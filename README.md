@@ -15,7 +15,7 @@ def draw():
         fill(255,64,64)
     ellipse(mouseX, mouseY, 80, 80)
 ```
-![MyCollages](https://user-images.githubusercontent.com/84707645/153637589-706f005b-65cc-4a5c-8e43-05d072ee08b2.jpg)
+
 
 Вот этот маленький миленький кусочек кода даёт следующее:
 1. Мы установили размер окна `size(800, 200)`. Кстати, если задать размер окна гораздо больший, чем у вас разрешение экрана, то программе норм, она поёрзает, поёрзает да нарисует.
@@ -26,6 +26,4 @@ def draw():
 </p>
 
 Другой пример из папки Java_based_syntax
-<p align="center">
-	<img  src="https://user-images.githubusercontent.com/84707645/153637250-a4f6ee7e-5c21-4749-a34b-54de78ee472b.jpg" width="800" height="800" />
-</p>
+![MyCollages](https://user-images.githubusercontent.com/84707645/153637589-706f005b-65cc-4a5c-8e43-05d072ee08b2.jpg)
