@@ -24,5 +24,4 @@ def draw():
 ![153473567-48ca4cd1-bf2c-4759-a387-c199aa41cd3f](https://user-images.githubusercontent.com/84707645/153637790-35aac18f-f34c-4d75-9a34-1329a1518fbf.png)
 
 Другой пример из папки Java_based_syntax
-![MyCollages](https://user-images.githubusercontent.com/84707645/153637589-706f005b-65cc-4a5c-8e43-05d072ee08b2.jpg)
-
+![MyCollages (1)](https://user-images.githubusercontent.com/84707645/153638001-07caad3f-639c-4f46-95b3-52e7946adb90.jpg)
