@@ -4,7 +4,7 @@ Processing is a free graphical library and integrated development environment (I
 1. Скачиваю Processing на [сайте](https://processing.org/download). Для ubuntu 20.04 выбрала версию Linux 64-bit
 2. Распаковываю архив
 3. Внутри папки processing-4.0b5 просто делаю ./processing
-4. Изначально была установлена mode Java, но я ещё скачала Python
+4. Изначально была установлена mode Java, но я ещё скачала Python 
 ```
 def setup():
     size(800, 200)
